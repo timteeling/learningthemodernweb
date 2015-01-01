@@ -15,6 +15,11 @@
   }
 }
 
+.site-footer {
+  text-align: center;
+  margin-top: 2em;
+}
+
 .wrap {
   width: 96%;
   margin: 0 auto;
@@ -57,4 +62,13 @@
   .last {
     margin-right: 0;
   }
+}
+
+.schedule .onehalf {
+  border-top: 3px solid $color-blue;
+  padding-left: .5em;
+}
+
+.schedule h2 {
+  margin-top: .5em;
 }
