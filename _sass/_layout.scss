@@ -1,0 +1,60 @@
+/* Layout */
+
+.site-header {
+  padding: 1em;
+}
+
+.site-title {
+  float: left;
+}
+
+.site-nav {
+  float: right;
+  a {
+    padding-left: 1em;
+  }
+}
+
+.wrap {
+  width: 96%;
+  margin: 0 auto;
+  @extend %clearfix;
+  
+  @include breakpoint(medium) {
+    max-width: 80%;
+  }
+
+  @include breakpoint(large) {
+    max-width: 70%;
+  }
+}
+
+.row {
+  @extend %clearfix;
+}
+
+@include breakpoint(medium) {
+
+  .onethird,
+  .onehalf,
+  .twothirds {
+    float: left;
+    margin-right: 5%;
+  }
+
+  .onethird {
+    width: 30%;
+  }
+
+  .onehalf {
+    width: 47.5%
+  }
+
+  .twothirds {
+    width: 65%;
+  }
+
+  .last {
+    margin-right: 0;
+  }
+}

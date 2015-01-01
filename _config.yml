@@ -1,0 +1,12 @@
+# Site settings
+title: Learning the Modern Web
+email: tdteeling@gmail.com
+description: "Loyola Web II Spring 2015"
+url: "http://learningthemoderweb.com"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+sass:
+    style: :compressed

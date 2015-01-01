@@ -1,0 +1,20 @@
+/* Helpers */
+
+%clearfix:before,
+%clearfix:after {
+  content: " ";
+  display: table;
+}
+
+%clearfix:after {
+  clear: both;
+}
+
+.clearfix {
+  @extend %clearfix;
+}
+
+.disabled {
+  pointer-events: none;
+  opacity: .5;
+}

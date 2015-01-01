@@ -1,0 +1,18 @@
+/* Variables */
+
+$font-body: lato, sans-serif;
+$font-headline: lato, sans-serif;
+$color-body: #333;
+$color-heading: #999;
+$color-border: rgba(0,0,0,.1);
+$color-blue: #55A0B1;
+$color-green: #227752;
+
+@mixin breakpoint($point) {
+  @if $point == medium {
+    @media (min-width: 38em) { @content; }
+  }
+  @else if $point == large {
+    @media (min-width: 64em) { @content; }
+  }
+}
