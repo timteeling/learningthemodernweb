@@ -41,6 +41,9 @@ permalink: /schedule/
   <div class="onehalf">
     <h5>February 11</h5>
     <h2>Layout</h2>
+    <ul>
+      <li><a href="http://blog.froont.com/9-basic-principles-of-responsive-web-design/">Principles of Responsive Design</a></li>
+    </ul>
   </div>
 
   <div class="onehalf last">
@@ -50,6 +53,8 @@ permalink: /schedule/
 
   <div class="onehalf">
     <h5>February 25</h5>
+    <h2>Imagery & Icons</h2>
+    <h4>* Project 1 Due *</h4>
   </div>
 
   <div class="onehalf disabled last">
@@ -59,34 +64,49 @@ permalink: /schedule/
 
   <div class="onehalf">
     <h5>March 11</h5>
+    <h2>SEO</h2>
   </div>
 
   <div class="onehalf last">
     <h5>March 18</h5>
+    <h2>Performance</h2>
   </div>
 
   <div class="onehalf">
     <h5>March 25</h5>
+    <h2>CMS Part 1</h2>
   </div>
 
   <div class="onehalf last">
     <h5>April 1</h5>
+    <h2>CMS Part 2</h2>
+    <h4>* Project 2 Due *</h4>
   </div>
 
   <div class="onehalf">
     <h5>April 8</h5>
+    <h2>Analytics</h2>
   </div>
 
   <div class="onehalf last">
     <h5>April 15</h5>
+    <h2>Testing</h2>
   </div>
 
   <div class="onehalf">
     <h5>April 22</h5>
+    <h2>Review</h2>
+    <ul>
+      <li>Wrap up and review of the course</li>
+      <li>Evaluations</li>
+      <li>Work on final projects</li>
+    </ul>
   </div>
 
   <div class="onehalf last">
     <h5>April 29</h5>
     <h2>Final Exam</h2>
+    <p class="small">4/29 6:30pm <a href="http://www.loyola.edu/department/records/faculty/exam-schedule">(Exam Schedule)</a></p>
+    <p>Attendance is <em>mandatory.</em> Students will present their final projects to the class.</p>
   </div>
 </div>

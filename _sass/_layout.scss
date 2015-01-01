@@ -64,7 +64,8 @@
   }
 }
 
-.schedule .onehalf {
+.schedule .onehalf,
+.home .onehalf {
   border-top: 3px solid $color-blue;
   position: relative;
   margin-bottom: 4em;
@@ -90,11 +91,13 @@
 
 @include breakpoint(medium) {
 
-  .schedule .onehalf:nth-of-type(odd) {
+  .schedule .onehalf:nth-of-type(odd),
+  .home .onehalf:nth-of-type(odd) {
     clear: both;
   }
 
-  .schedule .onehalf:nth-of-type(odd):after {
+  .schedule .onehalf:nth-of-type(odd):after,
+  .home .onehalf:nth-of-type(odd):after {
     content: '';
     border-right: 1px solid $color-border;
     position: absolute;
@@ -107,4 +110,9 @@
 
 .schedule h2 {
   margin-top: 1em;
+}
+
+.home .onehalf {
+  text-align: center;
+  min-height: 50vh;
 }
