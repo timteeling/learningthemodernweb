@@ -1,9 +1,12 @@
 /* Typography */
 
 body {
-  font: 100%/1.45 $font-body;
+  font: 87.5%/1.45 $font-body;
   color: $color-body;
   text-rendering: optimizeLegibility;
+  @include breakpoint(medium) {
+    font-size: 100%;
+  }
   @include breakpoint(large) {
     font-size: 112.5%;
   }
