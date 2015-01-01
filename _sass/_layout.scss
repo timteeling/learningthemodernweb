@@ -66,9 +66,45 @@
 
 .schedule .onehalf {
   border-top: 3px solid $color-blue;
-  padding-left: .5em;
+  position: relative;
+  margin-bottom: 4em;
+  @include breakpoint(medium) {
+    width: calc(50% - 2em);
+    margin: 1em;
+  }
+}
+
+.schedule h5 {
+  position: absolute;
+  top: -1em;
+  left: 50%;
+  @extend .small;
+  margin: 0 0 0 -4em;
+  text-align: center;
+  width: 8em;
+  background: $color-blue;
+  color: #fff;
+  padding: .25em .5em;
+  border-radius: 1em;
+}
+
+@include breakpoint(medium) {
+
+  .schedule .onehalf:nth-of-type(odd) {
+    clear: both;
+  }
+
+  .schedule .onehalf:nth-of-type(odd):after {
+    content: '';
+    border-right: 1px solid $color-border;
+    position: absolute;
+    top: 1em;
+    right: -1em;
+    height: 100%;
+  }
+
 }
 
 .schedule h2 {
-  margin-top: .5em;
+  margin-top: 1em;
 }
