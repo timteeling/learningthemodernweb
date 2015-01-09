@@ -13,15 +13,15 @@ permalink: /syllabus/
 <a href="tel:908.642.0902">908.642.0902</a></p>
 
 <h5>Office Hours</h5>
-<ul>
-<li>Wednesdays, before or after class</li>
-<li>By appointment</li>
-</ul>
+<p>Please make an appointment to meet.</p>
 </div>
 <div class="onehalf last">
-  <h3>Course Website</h3>
+  <h5>Course Info</h5>
+  <p>CM371 Web II<br>
+  Wednesdays, 6:30pm — 9:00pm<br>
+  College Center, Room M016</p>
+  <h5>Course Website</h5>
   <p>In the sprit of this course, I created a website for it located at <a href="http://learningthemodernweb.com">LearningTheModernWeb.com</a></p>
-  <p>I don't like Moodle. I've had bad experiences with it at my day job.</p>
 </div>
 </div>
 <div class="row">
@@ -31,10 +31,12 @@ permalink: /syllabus/
 </div>
 <div class="onehalf last">
   <h2 class="textcenter">Materials Needed</h2>
+  <p>Instead of traditional text books, the materials required for this class will be to obtain your own domain name and web hosting for your projects. We will discuss how to obtain these in the first few classes.</p>
   <ul>
     <li>GitHub Account</li>
     <li><a href="https://education.github.com/pack">GitHub student pack</a></li>
-    <li>Domain name (from student pack)</li>
+    <li>Domain name</li>
+    <li><a href="https://www.dreamhost.com/promo/lifehacker295/">Web Hosting</a></li>
   </ul>
 </div>
 </div>
@@ -43,7 +45,7 @@ permalink: /syllabus/
     <h2>Course Overview</h2>
     <p>This course is for students to learn the modern web. They will expand their HTML and CSS skills to write standards compliant, cross-browser compatible code to build websites that take into account devices of all shapes and sizes.</p>
     <p>Students will be challenged to implement HTML5, CSS3, jQuery in their web pages.  They will also learn the basics of designing and developing for content management systems.</p>
-    <p>While there is no textbook assigned to this class, excerpts from books, along with blog posts, video tutorials, and code documentation will be used as learning tools</p>
+    <p>While there is no textbook assigned to this class, excerpts from books, along with blog posts, video tutorials, and code documentation will be used as learning tools.</p>
   </div>
 </div>
 <div class="row">
@@ -51,10 +53,9 @@ permalink: /syllabus/
     <h2>Course Objectives</h2>
     <ul>
       <li>Be able to demonstrate best practices writing HTML and CSS for the modern web.</li>
-      <li>Demonstrate skills to manage domain names, web hosting, and basic MySQL Database Creation.</li>
+      <li>Demonstrate skills to manage domain names and web hosts.</li>
       <li>Demonstrate how to use FTP to upload assets to a web server.</li>
-      <li>Create a basic WordPress powered website.</li>
-      <li>Theme a WordPress website.</li>
+      <li>Design for clients and to solve their problems.</li>
       <li>Know how to account for content management systems in the design process.</li>
       <li>Design for account web pages that are optimized for mobile devices as well as traditional devices.</li>
     </ul>
@@ -134,7 +135,7 @@ permalink: /syllabus/
 <div class="row">
 <div class="twothirds">
 <h2>Learning Disabilities</h2>
-<p>Please see the instructor at the beginning of the semester to discuss any special needs related to disabilities. To request academic accommodations for a disability contact the Disability Support Services Office at <a href="http://www.loyola.edu/department/dss">http://www.loyola.edu/department/dss</a> or (410) 617-2062.</p>
+<p>Please see the instructor at the beginning of the semester to discuss any special needs related to disabilities. To request academic accommodations for a disability contact the <a href="http://www.loyola.edu/department/dss">Disability Support Services Office</a> or (410) 617-2062.</p>
 </div>
 
 </div>
