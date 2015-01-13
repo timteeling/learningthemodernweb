@@ -72,7 +72,7 @@ permalink: /syllabus/
 <div class="row">
 <div class="twothirds">
 <h2>Software</h2>
-<p>Adobe Creative Suite (a.k.a. Creative Cloud) should be loaded on the computers in the lab, however, I discourage the use of Dreamweaver. Expensive software is not needed to learn how to code. We will explore using free text editors such as <a href="http://brackets.io/">Brackets</a> and more affordable editors such as <a href="http://www.sublimetext.com/">Sublime Text.</a> If students are not using Dreamweaver or another editor such as <a href="http://panic.com/coda">Coda</a> or <a href="http://macrabbit.com/espresso/">Espresso</a>, they will also need an FTP client to upload assets to their web servers.</p>
+<p>Adobe Creative Suite (a.k.a. Creative Cloud) should be loaded on the computers in the lab, however, I discourage the use of Dreamweaver. Expensive software is not needed to learn how to code. We will explore using free text editors such as <a href="http://atom.io/">Atom</a> and more affordable editors such as <a href="http://www.sublimetext.com/">Sublime Text.</a> If students are not using Dreamweaver or another editor such as <a href="http://panic.com/coda">Coda</a> or <a href="http://macrabbit.com/espresso/">Espresso</a>, they will also need an FTP client to upload assets to their web servers.</p>
 </div>
 </div>
 <div class="row">
