@@ -71,7 +71,7 @@ permalink: /schedule/
 
   <div class="onehalf last">
     <h5>March 18</h5>
-    <h2>Performance</h2>
+    <h2>Analytics</h2>
   </div>
 
   <div class="onehalf">
@@ -87,7 +87,7 @@ permalink: /schedule/
 
   <div class="onehalf">
     <h5>April 8</h5>
-    <h2>Analytics</h2>
+    <h2>Performance</h2>
   </div>
 
   <div class="onehalf last">
