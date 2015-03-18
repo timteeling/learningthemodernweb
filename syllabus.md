@@ -107,8 +107,8 @@ permalink: /syllabus/
 <ul class="no-bullet">
 <li>Participation - 15%</li>
 <li>Weekly Assessments - 15%</li>
-<li>Project 1 - 20%</li>
-<li>Project 2 - 20%</li>
+<li><a href="/project-1">Project 1</a> - 20%</li>
+<li><a href="/project-2">Project 2</a> - 20%</li>
 <li>Project 3 - 30%</li>
 </ul>
 </div>

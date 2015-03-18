@@ -82,7 +82,7 @@ permalink: /schedule/
   <div class="onehalf last">
     <h5>April 1</h5>
     <h2>CMS Part 2</h2>
-    <h4>* Project 2 Due *</h4>
+    <h4>* <a href="/project-2">Project 2 Due</a> *</h4>
   </div>
 
   <div class="onehalf">
