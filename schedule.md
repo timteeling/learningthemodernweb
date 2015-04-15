@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: toc
 title: Schedule
 permalink: /schedule/
 ---
@@ -109,6 +109,6 @@ permalink: /schedule/
     <h5>April 29</h5>
     <h2>Final Exam</h2>
     <p class="small">4/29 6:30pm <a href="http://www.loyola.edu/department/records/faculty/exam-schedule">(Exam Schedule)</a></p>
-    <p>Attendance is <em>mandatory.</em> Students will present their final projects to the class.</p>
+    <p>Attendance is <em>mandatory.</em> Students will present their <a href="/project-3">final projects</a> to the class.</p>
   </div>
 </div>
