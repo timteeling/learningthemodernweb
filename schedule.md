@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: toc
 title: Schedule
 permalink: /schedule/
 ---
@@ -56,7 +56,7 @@ permalink: /schedule/
   <div class="onehalf">
     <h5>February 25</h5>
     <h2>Imagery & Icons</h2>
-    <h4>* Project 1 Due *</h4>
+    <h4>* <a href="/project-1">Project 1 Due</a> *</h4>
   </div>
 
   <div class="onehalf disabled last">
@@ -71,7 +71,7 @@ permalink: /schedule/
 
   <div class="onehalf last">
     <h5>March 18</h5>
-    <h2>Performance</h2>
+    <h2>Analytics</h2>
   </div>
 
   <div class="onehalf">
@@ -82,12 +82,12 @@ permalink: /schedule/
   <div class="onehalf last">
     <h5>April 1</h5>
     <h2>CMS Part 2</h2>
-    <h4>* Project 2 Due *</h4>
+    <h4>* <a href="/project-2">Project 2 Due</a> *</h4>
   </div>
 
   <div class="onehalf">
     <h5>April 8</h5>
-    <h2>Analytics</h2>
+    <h2>Performance</h2>
   </div>
 
   <div class="onehalf last">
@@ -109,6 +109,6 @@ permalink: /schedule/
     <h5>April 29</h5>
     <h2>Final Exam</h2>
     <p class="small">4/29 6:30pm <a href="http://www.loyola.edu/department/records/faculty/exam-schedule">(Exam Schedule)</a></p>
-    <p>Attendance is <em>mandatory.</em> Students will present their final projects to the class.</p>
+    <p>Attendance is <em>mandatory.</em> Students will present their <a href="/project-3">final projects</a> to the class.</p>
   </div>
 </div>
