@@ -1,5 +1,5 @@
 ---
-layout: toc
+layout: page
 title: Schedule
 permalink: /schedule/
 ---

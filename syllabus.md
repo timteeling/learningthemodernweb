@@ -33,8 +33,6 @@ permalink: /syllabus/
   <h2 class="textcenter">Materials Needed</h2>
   <p>Instead of traditional text books, the materials required for this class will be to obtain your own domain name and web hosting for your projects. We will discuss how to obtain these in the first few classes.</p>
   <ul>
-    <li>GitHub Account</li>
-    <li><a href="https://education.github.com/pack">GitHub student pack</a></li>
     <li>Domain name</li>
     <li><a href="https://www.dreamhost.com/promo/lifehacker295/">Web Hosting</a></li>
   </ul>
